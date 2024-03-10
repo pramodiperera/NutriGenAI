@@ -29,11 +29,11 @@ The AI Powered Nutrition Advisor is an application that utilizes Gemini 1.0 Pro 
 6. Click on the "Analyze" button to initiate the analysis.
 7. View the detailed nutritional information provided by the AI Nutrition Advisor.
 
-![AI Powered Nutrition Advisor](images/preview.png)
-
 ## Technologies Used
 - Python
 - Streamlit
 - Gemini 1.0 Pro model
 - NLP techniques
 
+## Application
+![AI Powered Nutrition Advisor](sample.jpg)
